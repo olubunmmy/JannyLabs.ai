@@ -24,7 +24,7 @@ JannyLabs AI
 “Branding Re-engineered for the Future.”
 
 🎯 3. **Mission Statement**
-To empower startups with intelligent, future-forward branding that blends AI innovation with human creativity—so they launch faster, communicate clearer, and grow stronger.
+To empower businesses with intelligent, future-forward branding that blends AI innovation with human creativity so they launch faster, communicate clearer, and grow stronger.
 
 🔹 4 **Brand Story**
 In an era where startups move fast, JannyLabs AI emerges as a solution for next-gen brand creation. 
@@ -45,6 +45,46 @@ We don’t just design brands —
 Create an AI-generated logo for a modern digital branding agency called JannyLabs AI. 
 The theme is sleek, futuristic, geometric, and tech-driven with neon mint and electric blue accent
 
+
+<img width="500" height="500" alt="JannyLabs AI Logo -" src="https://github.com/user-attachments/assets/15b05955-a7d9-497c-b0b5-09c586db0ba5" />
+
 ----
 
 ## 🎨 Phase 2: AI-Generated Design & Marketing Content
+**1. Social Media Content (5 Posts)**
+Post Ideas + Captions
+
+1. Why Your Brand Needs AI
+   - AI is changing the branding world. Build smarter, faster, and stronger with JannyLabs AI.
+   - CTA: DM us to begin.
+
+2. Branding Glow-Up
+   - See how AI transforms your brand identity with precision and creativity.
+   - CTA: Book a branding session.
+
+3. What Makes AI Branding Better?
+   - AI enhances creativity and ensures data-backed branding decisions.
+   - CTA: Contact us for a free consultation.
+
+4. Launch With Confidence
+   - Give your startup a powerful visual identity engineered with AI.
+   - CTA: Click to build your brand.
+
+5. Logo Variations in Minutes
+   - AI-generated brand concepts ready instantly.
+   - CTA: Order your brand kit today.
+     
+  2.Canva Prompt for Social Graphics
+
+**Header:** Future-Ready Branding, Powered by AI.
+**Subheader:** Launch your startup with confidence using intelligent digital design.
+
+**Services:**
+- AI Branding
+- Logo & Identity Systems
+- Brand Storytelling
+- Social Media Templates
+- Pitch Deck & Website Kits
+
+CTA: Build a smarter brand today.
+
