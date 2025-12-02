@@ -74,8 +74,13 @@ Post Ideas + Captions
    - AI-generated brand concepts ready instantly.
    - CTA: Order your brand kit today.
      
-  2.Canva Prompt for Social Graphics
+ **2.Canva Prompt for Social Graphics:**
+ Generate a vibrant futuristic social media post showcasing the power of AI branding for businesses, 
+with glowing tech elements and modern typography.
 
+ ![AI BRANDING](https://github.com/user-attachments/assets/40c132ff-5976-499a-a298-30f5c3d4c2d4)
+
+**2. Website Mockup:**
 **Header:** Future-Ready Branding, Powered by AI.
 **Subheader:** Launch your startup with confidence using intelligent digital design.
 
