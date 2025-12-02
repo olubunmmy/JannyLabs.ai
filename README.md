@@ -48,6 +48,8 @@ The theme is sleek, futuristic, geometric, and tech-driven with neon mint and el
 
 <img width="500" height="500" alt="JannyLabs AI Logo -" src="https://github.com/user-attachments/assets/15b05955-a7d9-497c-b0b5-09c586db0ba5" />
 
+
+
 ----
 
 ## 🎨 Phase 2: AI-Generated Design & Marketing Content
