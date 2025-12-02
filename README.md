@@ -95,7 +95,7 @@ with glowing tech elements and modern typography.*
 
 CTA: Build a smarter brand today.
 
-🔹 3. AI-Generated Blog Post
+**3. AI-Generated Blog Post**
 Title: Why AI-Powered Branding Is the Future
 
 AI-powered branding helps businesses create stronger identities faster. 
@@ -162,7 +162,7 @@ AI-enhanced content creation tools
 
 ## 🔚 Conclusion
 
-This project demonstrates how AI can power branding from start to finish —
+This project demonstrates how AI can power branding from start to finish 
 from naming and storytelling to full marketing rollout and client outreach.
 
 JannyLabs AI is more than a brand.
