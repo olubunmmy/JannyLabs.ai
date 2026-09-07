@@ -175,7 +175,7 @@ JannyLabs AI
 **Design a clean, modern, futuristic pitch deck slide showcasing the advantages of AI branding 
 for startups. Use electric blue, neon mint, and minimal tech-themed graphics.*
 
-https://www.canva.com/design/DAG6XvKKPW0/M8Tg_P-KeaIlVBRQwjr0Yg/edit?utm_content=DAG6XvKKPW0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://drive.google.com/file/d/1gmOH7gTkatx818-kxmljmthcFpV__yW5/view?usp=drive_link
 ----
 ##  Technologies & Tools Used
 
